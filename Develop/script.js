@@ -23,7 +23,7 @@ function setItems () {
     localStorage.setItem("9AM", $("#text-area-9").val());
     localStorage.setItem("10AM", $("#text-area-10").val());
     localStorage.setItem("11AM", $("#text-area-11").val());
-    localStorage.setItem("12AM", $("#text-area-12").val());
+    localStorage.setItem("12PM", $("#text-area-12").val());
     localStorage.setItem("1PM", $("#text-area-13").val());
     localStorage.setItem("2PM", $("#text-area-14").val());
     localStorage.setItem("3PM", $("#text-area-15").val());
